@@ -3,4 +3,5 @@ Release Notes
  
 CHANGES WILL BE HERE
 -------------------
-Added New Commands Such As MASSBAN AND MASSDM
+Deleted The Source Code
+So little kids dont steal code:3
